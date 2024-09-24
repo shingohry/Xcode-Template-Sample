@@ -27,5 +27,18 @@
 		<key>FileTypeIcon</key>
 		<string>swift</string>
 	</dict>
+    <key>Options</key>
+	<array>
+		<dict>
+			<key>Identifier</key>
+			<string>productName</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>「{入力文字列}View.swift」を追加します</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+	</array>
 </dict>
 </plist>
